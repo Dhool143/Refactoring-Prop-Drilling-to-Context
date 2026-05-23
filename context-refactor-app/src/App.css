@@ -1,0 +1,30 @@
+
+
+.user-profile {
+  background-color: rgb(96, 85, 73);
+border-radius: 20;
+}
+
+.container {
+
+ background-color: #1a1a2e;
+ padding: 20px ;
+ max-width: 100vh;
+}
+
+.dashboard {
+  background-color:  #16213e;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+
+.sidebar {
+  background-color: #0f3460;
+  padding: 20px;
+  border-radius: 10px;
+  margin: 10px;
+
+
+}
